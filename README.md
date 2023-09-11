@@ -1,1 +1,6 @@
-# API-Postman-CI-CD
+# Purpose of this repository
+Postman API automation - This is a repository mainly for growing my skills as an automation QA Engineer with Postman API automation
+
+## Repository Features
+
+- **Actions tab:** Check the Github Actions runs.
